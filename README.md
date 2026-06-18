@@ -45,7 +45,7 @@ Declining transaction activity is strongly associated with churn.
 Customers with higher inactivity levels are more likely to leave the bank.
 Transaction behavior is the most important predictor of customer churn.
 
-# Business Recommendations
+## Business Recommendations
 Monitor customers with declining transaction activity.
 Implement early retention campaigns for inactive customers.
 Increase customer engagement through personalized offers.
