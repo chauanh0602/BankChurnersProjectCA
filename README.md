@@ -13,19 +13,19 @@ Support data-driven retention strategies.
 The project uses the BankChurners dataset, which contains information on 10,127 bank customers, including demographics, account information, transaction behavior, and churn status.
 
 ## Methodology
-1. Data Preparation
+### 1. Data Preparation
 Data cleaning and preprocessing
 Feature selection
 Handling class imbalance
-2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 Customer profile analysis
 Churn distribution analysis
 Transaction behavior analysis
 Correlation analysis
-3. Machine Learning Models
+### 3. Machine Learning Models
 Logistic Regression
 Random Forest Classifier
-4. Dashboard Development
+### 4. Dashboard Development
 Interactive Power BI dashboard
 KPI monitoring
 Customer segmentation
@@ -58,14 +58,17 @@ Run the notebook to reproduce the results.
 Open the Power BI dashboard file (.pbix) to explore interactive visualizations.
 
 ## Project Structure
+Bank-Churn-Analysis/
+│
 ├── data/
-
+│   └── BankChurnersfirst.csv
+│
 ├── notebooks/
-
+│   └── BankChurners_python.ipynb
+│
 ├── dashboard/
-
-├── images/
-
+│   └── PowerBI bank churn.pbix
+│
 ├── README.md
 
 ## Getting Help
