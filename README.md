@@ -1,4 +1,4 @@
-# BankChurnersProjectCA
+# BankChurnersProjectCA: Bank Customer Churn Analysis & Prediction
 ## Project Overview
 This project aims to analyze customer churn behavior and develop machine learning models to predict whether a customer is likely to leave the bank. By identifying key churn drivers, the project provides actionable insights to support customer retention strategies.
 
@@ -51,6 +51,9 @@ Implement early retention campaigns for inactive customers.
 Increase customer engagement through personalized offers.
 Promote cross-selling opportunities to strengthen customer relationships.
 
+## Dashboard
+![Dashboard](BankChurnersDashboard.png)
+
 ## Getting Started
 Clone this repository.
 Open the Jupyter Notebook file to review the analysis.
@@ -68,7 +71,7 @@ Bank-Churn-Analysis/
 │
 ├── dashboard/
 │   └── PowerBI bank churn.pbix
-│
+│   └── BankChurnersDashboard.png
 ├── README.md
 
 ## Getting Help
